@@ -1,0 +1,112 @@
+library(readr)
+library(dplyr)
+library(stringr)
+library(lubridate)
+
+# 📁 CSV 폴더 경로 (Mac 기준)
+folder_path <- "/Users/biyonghiyon_e/Library/CloudStorage/OneDrive-dgu.ac.kr/대학교/3학년/데프기실/csv/웹 전체"
+file_list <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
+
+# 📌 단일 파일 처리 함수
+classify_meme <- function(filepath) {
+  df <- read_csv(filepath, skip = 2, col_names = c("date", "value"), show_col_types = FALSE)
+  
+  df <- df %>%
+    mutate(
+      value = ifelse(str_detect(value, "<1"), 0, as.numeric(value)),
+      date = ym(paste0(date, "-01")),
+      week = row_number()
+    ) %>%
+    filter(!is.na(value))
+  
+  if (nrow(df) < 8) return(tibble(file = basename(filepath), type = "데이터 부족"))
+  
+  max_val <- max(df$value, na.rm = TRUE)
+  threshold15 <- 0.15 * max_val
+  threshold80 <- 0.8 * max_val
+  
+  # 15% 이상 4주 이상 연속 구간 찾기
+  over15 <- df$value >= threshold15
+  rle15 <- rle(over15)
+  start_idx <- which(rle15$lengths >= 4 & rle15$values)[1]
+  
+  if (is.na(start_idx)) return(tibble(file = basename(filepath), type = "15% 이상 지속 없음"))
+  
+  idx_start <- sum(rle15$lengths[1:(start_idx - 1)]) + 1
+  df_valid <- df[idx_start:nrow(df), ]
+  
+  # 다시 15% 미만으로 떨어지기 전까지만 사용
+  if (any(df_valid$value < threshold15)) {
+    min_idx <- which(df_valid$value < threshold15)[1]
+    df_valid <- df_valid[1:(min_idx - 1), ]
+  }
+  
+  # 80% 피크 도달 확인
+  if (!any(df_valid$value >= threshold80)) {
+    return(tibble(file = basename(filepath), type = "80% 피크 없음"))
+  }
+  
+  peak_idx <- which.max(df_valid$value)
+  if ((peak_idx + 1) > nrow(df_valid)) {
+    return(tibble(file = basename(filepath), type = "하락 판단 불가"))
+  }
+  
+  # 피크 이후 최대 4주까지 남은 데이터 사용
+  post_peak <- df_valid[(peak_idx+1):min(peak_idx+4, nrow(df_valid)), ]
+  if (nrow(post_peak) < 2) {
+    return(tibble(file = basename(filepath), type = "하락 판단 불가"))
+  }
+  
+  peak_val <- df_valid$value[peak_idx]
+  post_avg <- mean(post_peak$value, na.rm = TRUE)
+  drop_rate <- (peak_val - post_avg) / peak_val
+  
+  type <- ifelse(drop_rate >= 0.5, "단기", "장기")
+  
+  return(tibble(file = basename(filepath), type = type))
+}
+
+# 🔁 전체 파일 반복 처리
+results <- lapply(file_list, classify_meme)
+final <- bind_rows(results)
+
+# 💾 저장
+write_csv(final, "~/Downloads/웹_밈_단기_장기_분류결과.csv")
+
+# ✅ 출력
+print(final)
+
+install.packages("showtext")
+library(showtext)
+font_add("AppleGothic", "AppleGothic.ttf")
+showtext_auto()
+
+library(readr)
+library(dplyr)
+library(ggplot2)
+
+# 1. 분류 결과 CSV 파일 불러오기
+result <- read_csv("~/Downloads/웹_밈_단기_장기_분류결과.csv")
+
+# 2. 분류 비율 계산
+summary <- result %>%
+  count(type) %>%
+  mutate(percent = round(n / sum(n) * 100, 1)) %>%
+  arrange(desc(percent))
+
+# 3. 결과 (콘솔에 % 포함해 출력)
+print(summary)
+
+# 4. 원그래프 출력 (퍼센트 레이블 포함)
+ggplot(summary, aes(x = "", y = percent, fill = type)) +
+  geom_bar(width = 1, stat = "identity", color = "white") +
+  coord_polar(theta = "y") +
+  geom_text(aes(label = paste0(percent, "%")), 
+            position = position_stack(vjust = 0.5), 
+            color = "white", size = 5) +
+  labs(
+    title = "웹 밈 분류 결과 (%)",
+    fill = "유형"
+  ) +
+  theme_void() +
+  theme(legend.position = "right")
