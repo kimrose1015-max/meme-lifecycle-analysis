@@ -1,0 +1,391 @@
+source_relative_path,repository_path,sha256
+csv/기타/밈_웹_주기.csv,data/processed/밈_웹_주기.csv,630d2616eee19f61daad5fabb2942b102981f654bde83acf2f0b800b08cb7343
+csv/기타/밈_유튜브_주기.csv,data/processed/밈_유튜브_주기.csv,c50826b727879328c31f91e52f231edbd1d9abf25d11ccf012ebfe2ca4009df2
+csv/기타/밈_유튜브_주기_정렬완료.csv,data/processed/밈_유튜브_주기_정렬완료.csv,18bffb108f6cc6acda9f085b488133ee856885a35f8473c52942be89b76ead2d
+csv/기타/웹 단기.zip,archive/zips/웹 단기.zip,e11d01ede8b7e146607fdb4d0ef3097776bb4249137a48cfaeab6a2d3e264b41
+csv/기타/웹_단기_평균검색량.csv,data/processed/웹_단기_평균검색량.csv,a3106f023946040dce5090b2b3613382b9fbeebdb9916af3e5115a452352ea6c
+csv/기타/웹_장기_평균검색량.csv,data/processed/웹_장기_평균검색량.csv,a260da231e2035bb0454b99665ad7f93ea063d0ca42d1df8ff3b644c32028a61
+csv/기타/유튜브 단기.zip,archive/zips/유튜브 단기.zip,6fd1830322197599568f42ae0f240336621cd74d4ca95b7d36463c329e2f20c3
+csv/밈_웹_주기_분류완료.csv,data/processed/밈_웹_주기_분류완료.csv,784a949203277407d03651281f087a38440456cdbb66f73f5565e65ec4f2af62
+csv/세종류/공통_웹/ppap_웹.csv,data/raw/web-analysis/ppap_웹.csv,2f239e3f19f9ed059807434a3caec9b06f842c78974387951a2d64503947aa29
+csv/세종류/공통_웹/갸루피스_웹.csv,data/raw/web-analysis/갸루피스_웹.csv,85e3203c0485273df2de3bf339e5efdafaafb83f17c7d04e847b1c1445953d4d
+csv/세종류/공통_웹/꽁꽁 얼어붙은_웹.csv,data/raw/web-analysis/꽁꽁 얼어붙은_웹.csv,8885eb37777623a2713ec671cbce302c7a0a6f74296ccd36efc0b55c5408adee
+csv/세종류/공통_웹/나문희의첫사랑웹.csv,data/raw/web-analysis/나문희의첫사랑웹.csv,60dc77b7e4d124cd2e8fc577b3523279c1501c69b11570416c1cb174e783ad21
+csv/세종류/공통_웹/나비보벳따우_웹.csv,data/raw/web-analysis/나비보벳따우_웹.csv,c502eb8b660a665070bf3aa1a9064be27c809c9360c5b86712a2b025c3e3aa1e
+csv/세종류/공통_웹/내가고자라니웹.csv,data/raw/web-analysis/내가고자라니웹.csv,173e7fe28040838256a6b0b74c4dfa438d76e2bbc9ddd307273f77c01787f82f
+csv/세종류/공통_웹/누울래_웹.csv,data/raw/web-analysis/누울래_웹.csv,1922d648c36d46779be02091973777356df678420080f283ba3ea550ed1753c0
+csv/세종류/공통_웹/느좋_웹.csv,data/raw/web-analysis/느좋_웹.csv,5ceaee8235978909f8e01b11d3b27c3440321a2aa7708767114caae1009e2a56
+csv/세종류/공통_웹/동그란맘속에피어난웹.csv,data/raw/web-analysis/동그란맘속에피어난웹.csv,8687ab159804e4c8cc36ea721941df1c2f13874c80c6ac399f3c0dc46ed9ef4f
+csv/세종류/공통_웹/드르륵칵웹.csv,data/raw/web-analysis/드르륵칵웹.csv,6ef1167c114a62e2b6264636a0c653d4984165591bbe9d24c1e8cdbc3850be24
+csv/세종류/공통_웹/똥밟았네_웹.csv,data/raw/web-analysis/똥밟았네_웹.csv,4dc61422e8e8ae4480db8e04f7604fe93db88db4c805b2749d912126f946457f
+csv/세종류/공통_웹/멋진직업_웹.csv,data/raw/web-analysis/멋진직업_웹.csv,39606ef6eec2f793f3a9424bb94cedd21d85d5104b2a79c127be58c038db6373
+csv/세종류/공통_웹/미룬이_웹.csv,data/raw/web-analysis/미룬이_웹.csv,71660a877c5e2032dee4e86c550c4f63dc37384e588705ed643c2e3579fbf0c8
+csv/세종류/공통_웹/버억_웹.csv,data/raw/web-analysis/버억_웹.csv,3c8c4e3888a734b017c80237acd9dca8bf4d579536594244c36e85ad1aca92e2
+csv/세종류/공통_웹/빵꾸똥꾸_웹.csv,data/raw/web-analysis/빵꾸똥꾸_웹.csv,f92850c3da6514984e1e1428f23ef4f6a87e660c5a110f24f429ef43d3563062
+csv/세종류/공통_웹/빵상웹.csv,data/raw/web-analysis/빵상웹.csv,4b347a62459a3378782fe9809f4a5fba9fc845d118405c953308901f3678bfd0
+csv/세종류/공통_웹/샤샤샤_웹.csv,data/raw/web-analysis/샤샤샤_웹.csv,6c714d17575d2213a92c43e414f8ad461e6eaf8700d6b6b68ab99b191bf43b0d
+csv/세종류/공통_웹/스껄할래웹.csv,data/raw/web-analysis/스껄할래웹.csv,f07376fc3e96184b119758dede6c778c4678abac5827f3601c964a53e3a28343
+csv/세종류/공통_웹/시그마보이_웹.csv,data/raw/web-original/시그마보이_웹.csv,6e1d58207cf9fb6ba3e7e7487be381bfe23f36ce0c4e93e531dc2d2d20daab4a
+csv/세종류/공통_웹/신뢰에요웹.csv,data/raw/web-analysis/신뢰에요웹.csv,53987f16d30dba4088707acca9404336abbccc32ea7154a03f597535281483b8
+csv/세종류/공통_웹/실화냐_웹.csv,data/raw/web-analysis/실화냐_웹.csv,64428f42571c63d173f98c779f909eb7d48145dd9ceee3d434dfd08336faea03
+csv/세종류/공통_웹/쌩얼_웹.csv,data/raw/web-analysis/쌩얼_웹.csv,d71fb91d96f00d016d04454a6a2c445bccd60147c3bfe1d50c5246d8d9a517fc
+csv/세종류/공통_웹/아이스버킷_웹.csv,data/raw/web-analysis/아이스버킷_웹.csv,9ba04ab98d36cd36fc56612c8580cb86c47fc1b2da093241b5eeda42cff5b78d
+csv/세종류/공통_웹/악깡버_웹.csv,data/raw/web-analysis/악깡버_웹.csv,9eec7598de72fa60877d2181ed641abe52227ff588616941825608acd07e7bae
+csv/세종류/공통_웹/안녕하살법_웹.csv,data/raw/web-analysis/안녕하살법_웹.csv,ace5d5056bdd2936b3cf5e6f2dc8cf8c626b5764600f3330d2bdbe3987589f49
+csv/세종류/공통_웹/장충동왕족발_웹.csv,data/raw/web-analysis/장충동왕족발_웹.csv,1194c819f3c58bcae5e99479cccbb6d72431aaf23561f9f23c507490d7b15763
+csv/세종류/공통_웹/진지충웹.csv,data/raw/web-analysis/진지충웹.csv,f7a8d49ae748703e7e251cd8c3ee4523666e4237169741b5387f68b1137d1f21
+csv/세종류/공통_웹/찰리찰리_웹.csv,data/raw/web-analysis/찰리찰리_웹.csv,1a9ae290e0b180189a98477028dfc22bd4c3c5cc35eb8b9125da8513dd7fe245
+csv/세종류/공통_웹/칠가이_웹.csv,data/raw/web-analysis/칠가이_웹.csv,d506fdacabf9a20f57ad9078d0f5a5c96d24aad38543d75c274f1a7789d3ac80
+csv/세종류/공통_웹/트랄랄레로_웹.csv,data/raw/web-original/트랄랄레로_웹.csv,c71752411ab52163c172cac23c0536d897b64fdc6ad0efe3f4d460071ce7bd65
+csv/세종류/공통_웹/할말이없네웹.csv,data/raw/web-analysis/할말이없네웹.csv,3d114f4639df52dfa466df177c03e5bc357bc0f084d8285a734ee916db1ede47
+csv/세종류/공통_웹/항아리게임_웹.csv,data/raw/web-analysis/항아리게임_웹.csv,2c7f2b91e041d2deeeac11abd67908737124c6da77c9774d58a3123803a8f581
+csv/세종류/공통_웹/해피켓웹.csv,data/raw/web-analysis/해피켓웹.csv,cb6e90f2c73e53f4be1a9f6722ab5b91c9747f64111723618c6384272dfb1273
+csv/세종류/공통_웹/햄부기_웹.csv,data/raw/web-analysis/햄부기_웹.csv,0cf25329419073490f3c86a5eafcf963f86c77d99eb598c0fb39dce29c309758
+csv/세종류/공통_웹/허거덩거덩스웹.csv,data/raw/web-analysis/허거덩거덩스웹.csv,6b621b7f4924f12a54766376c23204a0b57ce015842d36233598e15c17dfb7a1
+csv/세종류/공통_웹/흥웃기는소리웹.csv,data/raw/web-analysis/흥웃기는소리웹.csv,9a3c6fa115a2b812e9e5568135712868a82d1434ed13aca50ab2141989d2847e
+csv/세종류/공통_웹.zip,archive/zips/공통_웹.zip,4c65e8e516042b8b03f05ae3083aeaa71a1ac1b9affe8ebfd0f39f27b672e4ca
+csv/세종류/공통_유튜브/ppap_유튜브.csv,data/subsets/common-youtube/ppap_유튜브.csv,91cd33b4a152bdc8e6af07f21036751059d32ad6d9f44274ae3d888c92e4e3f0
+csv/세종류/공통_유튜브/갸루_유튜브.csv,data/subsets/common-youtube/갸루_유튜브.csv,dcbec83c8e7cc4906c75e3b846dbd939b9717b8e05feaa4cc01aa0983eded443
+csv/세종류/공통_유튜브/꽁꽁 얼어붙은_유튜브.csv,data/subsets/common-youtube/꽁꽁 얼어붙은_유튜브.csv,6d175d8a50dac852b72e9e245c7760cb0cf4c1180944ee212acf891658227a04
+csv/세종류/공통_유튜브/나문희의첫사랑유튭.csv,data/subsets/common-youtube/나문희의첫사랑유튭.csv,d5774424d9102a9f75d16198df6eb2ac58b67a0475234c89f8c2e765cdd4304b
+csv/세종류/공통_유튜브/나비보벳따우_유튜브.csv,data/subsets/common-youtube/나비보벳따우_유튜브.csv,7e5595dc6e7c5e1c0b0a67e5a44e8cb5c0970a20d831c4d49e8e0d9f550d2166
+csv/세종류/공통_유튜브/내가고자라니유튭.csv,data/subsets/common-youtube/내가고자라니유튭.csv,ee483d94abef2f41d3da2a0aa6b68f493680b0fcda5b0d583c7d8b211f83b9a8
+csv/세종류/공통_유튜브/누울래_유튜브.csv,data/subsets/common-youtube/누울래_유튜브.csv,ba27bc7df0a86d6155c0990a9d8de98c3243eccf6254a677f751a9c784fb951f
+csv/세종류/공통_유튜브/느좋_유튜브.csv,data/subsets/common-youtube/느좋_유튜브.csv,4cd4e306584d73f85c1d1f996950a0e94e952bb46b33ac3af2a44d844075dd21
+csv/세종류/공통_유튜브/동그란맘속에피어난유튭.csv,data/subsets/common-youtube/동그란맘속에피어난유튭.csv,2f778487dd4d84b31cdcd7e8298c8ac2af2588c2b975887c7f61069dc2dd1776
+csv/세종류/공통_유튜브/드르륵칵유튭.csv,data/subsets/common-youtube/드르륵칵유튭.csv,20e839d13e3921fa3533df1f03c308d67ed8ab14f13ffa8543e9cbb3f5943c30
+csv/세종류/공통_유튜브/똥밟았네_유튜브.csv,data/subsets/common-youtube/똥밟았네_유튜브.csv,a1375b649a19b9a6896da491de510ccfa0b5d1da143f9618bdcc4c7a68dd9df7
+csv/세종류/공통_유튜브/멋진직업_유튜브.csv,data/subsets/common-youtube/멋진직업_유튜브.csv,e46f0aede7cc7eab1093aba123a336eee76e2a9484c8bd21cebb821dc408c0f7
+csv/세종류/공통_유튜브/미룬이_유튜브.csv,data/subsets/common-youtube/미룬이_유튜브.csv,ab375b2015b304715bf8677ed1a0fb3cf681756e614736d92e64d06f7cc195af
+csv/세종류/공통_유튜브/버억_유튜브.csv,data/subsets/common-youtube/버억_유튜브.csv,72ec3e8fd1eeb973c7190e23210db1da64dd49b48d4298c4d58ccf35a9bed9f0
+csv/세종류/공통_유튜브/빵꾸똥꾸_유튜브.csv,data/subsets/common-youtube/빵꾸똥꾸_유튜브.csv,6c19b0d3d4a10555ce5ce7b133b20008cae85cea53f53388aa91ef8569fb2bf8
+csv/세종류/공통_유튜브/빵상유튭.csv,data/subsets/common-youtube/빵상유튭.csv,e9322b247913d2145c593ddaf8001ed14fc79326508dfb4a2dbe041c370909a8
+csv/세종류/공통_유튜브/샤샤샤_유튜브.csv,data/subsets/common-youtube/샤샤샤_유튜브.csv,e767ae85838377ad146c76ba1c83dfc8dccb038d015bb0a0d16bf533a11b49c2
+csv/세종류/공통_유튜브/스껄할래 유튭.csv,data/subsets/common-youtube/스껄할래 유튭.csv,ad207989341442ffac53921c6db824a022b81f12bc483766fcdbfdc7ca0f9824
+csv/세종류/공통_유튜브/시그마보이_유튜브.csv,data/subsets/common-youtube/시그마보이_유튜브.csv,51442e789fcf0d9be85bb90527f6bd449cdcf9fb114da3c4ec6178130a24df80
+csv/세종류/공통_유튜브/신뢰에요유튭.csv,data/subsets/common-youtube/신뢰에요유튭.csv,4031c10c39226bba03c3271e36da1cd97f1a45450b58559990b09295c6e02ca2
+csv/세종류/공통_유튜브/실화냐_유튜브.csv,data/subsets/common-youtube/실화냐_유튜브.csv,4b42c7cd69240740769fe005540bf69fa04c18ff5e8d75e5e2616c4dee3a8fbb
+csv/세종류/공통_유튜브/쌩얼_유튜브.csv,data/subsets/common-youtube/쌩얼_유튜브.csv,1dbefea9c5df9c988477dd83f6ceb0fddf3e17174336373eb511db16c4358182
+csv/세종류/공통_유튜브/아이스버킷_유튜브.csv,data/subsets/common-youtube/아이스버킷_유튜브.csv,efb102c65a66c625cb3a9ac78065911bde74c828511349e9cac6cffe3a0812e5
+csv/세종류/공통_유튜브/악깡버_유튜브.csv,data/subsets/common-youtube/악깡버_유튜브.csv,6911c4249bc6fa75e78974be62dba7183d7f4c575efb729ef175395c196fe076
+csv/세종류/공통_유튜브/안녕하살법_유튜브.csv,data/subsets/common-youtube/안녕하살법_유튜브.csv,e5e87dfbec0f9a560cbe248dc777f1b700fd17163f26aa58d5645049bc6b0a78
+csv/세종류/공통_유튜브/장충동왕족발_유튜브.csv,data/subsets/common-youtube/장충동왕족발_유튜브.csv,49e6a01d4f59e66ffabb29fde46089473ed8aa58ab8a00278dbd32f3a3498684
+csv/세종류/공통_유튜브/진지충유튭.csv,data/subsets/common-youtube/진지충유튭.csv,2394701ccf7135d9444a06260654f8184a090d7f27500518f66409db2954bf1e
+csv/세종류/공통_유튜브/찰리찰리_유튜브.csv,data/subsets/common-youtube/찰리찰리_유튜브.csv,ffe336264ce7f9d1bee8b1687e5ba85dcc88b2fe8087c5d2d27b51a59c95e763
+csv/세종류/공통_유튜브/칠가이_유튜브.csv,data/subsets/common-youtube/칠가이_유튜브.csv,1b7dfa08459a1afe248751b8f216164123fab7183a1d119bb814123ac673203a
+csv/세종류/공통_유튜브/트랄랄레로_유튜브.csv,data/subsets/common-youtube/트랄랄레로_유튜브.csv,faeaae1e78d8f66dcaa21e6f845cc4e51fa7f9dc313cf8534e33167ff08c601b
+csv/세종류/공통_유튜브/할말이없네유튭.csv,data/subsets/common-youtube/할말이없네유튭.csv,0fd0822c550b231ff91951868fcf63620cbcb3ace4e0cd92690cb5de7b2036ca
+csv/세종류/공통_유튜브/항아리게임_유튜브.csv,data/subsets/common-youtube/항아리게임_유튜브.csv,51a682899588f9e9a1bfebc05f41bdbc19d802b0b1e96e055930e37c9cc0e403
+csv/세종류/공통_유튜브/해피켓유튭.csv,data/subsets/common-youtube/해피켓유튭.csv,225f9e72c6ead163cdc5155c58eb0ea7cb674155b9e8e18d51e89a2954a2336c
+csv/세종류/공통_유튜브/햄부기_유튜브.csv,data/subsets/common-youtube/햄부기_유튜브.csv,0ce2a94e57893b420755f4478e6c02e4a6fdbaae466c759dc27cbd212fac8d14
+csv/세종류/공통_유튜브/허거덩거덩스유튭.csv,data/subsets/common-youtube/허거덩거덩스유튭.csv,cfa9f0ce1634a5e81139b2fe826efadb01ba8e7eedda4048552f40ec0056ed40
+csv/세종류/공통_유튜브/흥 웃기는소리 유튭.csv,data/subsets/common-youtube/흥 웃기는소리 유튭.csv,42982e9472bf8355ba5411b321ef051c015d1bd2882408d312d8e595eeefc2ab
+csv/세종류/공통_유튜브.zip,archive/zips/공통_유튜브.zip,ddaae8c03b6f59da7bc2abd47179e86320e02823383d840d83ad40eae72ffd65
+csv/세종류/웹만 있는 단기/tmi_웹.csv,data/raw/web-analysis/tmi_웹.csv,b4270d8a5bbf27dab0b0311b43436c576bbdb85205c82bde29cd0570ba765667
+csv/세종류/웹만 있는 단기/ㄷㄷㄷㅈ_웹.csv,data/raw/web-analysis/ㄷㄷㄷㅈ_웹.csv,3e45e8e2b5c9b447dd9d22843fa606da8694a7ec8ea66ce945c7b9f6603b09c4
+csv/세종류/웹만 있는 단기/삼각함수송웹.csv,data/raw/web-analysis/삼각함수송웹.csv,bdd0860681c41799749e13252447e863e810b3322ff4cca662a4fddd7e33ee1b
+csv/세종류/웹만 있는 단기/웃음벨_웹.csv,data/raw/web-analysis/웃음벨_웹.csv,e859c0db42bc9ef0b32504c6247ce963e32c22b9da453ebc892fefed06ac14a9
+csv/세종류/웹만 있는 단기/응아니야웹.csv,data/raw/web-analysis/응아니야웹.csv,3a26a6195e960f08ff9bd0dc63cbafdebb12fe712b6fdbc35bea1f3fa3139e0b
+csv/세종류/웹만 있는 단기/지구방위대_웹.csv,data/raw/web-analysis/지구방위대_웹.csv,d784445cd0c76dfb66e14bd1a73e8df47cf00648b4fa185b04e8cfe733a40064
+csv/세종류/웹만 있는 단기/진실의방_웹.csv,data/raw/web-analysis/진실의방_웹.csv,f2de7dee5088e9b1889bcbaf19aa8db8af259d3fb7ecc03de07b97d37fe09829
+csv/세종류/웹만 있는 단기/홍박사_웹.csv,data/raw/web-analysis/홍박사_웹.csv,f7a4900a3b09e6236986c1a4abced2e620ab3bf8717b1cdcefbb29a4f75a42b3
+csv/세종류/웹만 있는 단기.zip,archive/zips/웹만 있는 단기.zip,9e587a0885a12d74b2c5ea6050f921b61e324f2611df9b337bbfc29e3b590023
+csv/세종류/유튜브만 있는 단기/1루수가 누구야_유튜브.csv,data/subsets/youtube-only-short/1루수가 누구야_유튜브.csv,7a115ad6775e3be3006b7c2ffc00af0e594390c7c5ed826a9973100677effd19
+csv/세종류/유튜브만 있는 단기/ak47_유튜브.csv,data/subsets/youtube-only-short/ak47_유튜브.csv,b6269626051bf85995a6ef89c6f12dbee5793e3a0cd84671648c6e62e0c3c43b
+csv/세종류/유튜브만 있는 단기/ㄹㅇㅋㅋ유튭.csv,data/subsets/youtube-only-short/ㄹㅇㅋㅋ유튭.csv,54d7d01e8f5d793714837d3bcfb0e6b3e28750be435e0f115fd2888fbc031ac4
+csv/세종류/유튜브만 있는 단기/국룰_유튜브.csv,data/subsets/youtube-only-short/국룰_유튜브.csv,0f8ab312a986aacc913952e6606e27beb2ba02c2d8ec22b7c8b444963a7b4237
+csv/세종류/유튜브만 있는 단기/그거아세요유튭.csv,data/subsets/youtube-only-short/그거아세요유튭.csv,8629ff437b841ab839283f8e58e39eb61cb53463e5ed90374cd376f0f5fbbf0e
+csv/세종류/유튜브만 있는 단기/대상혁유튭.csv,data/subsets/youtube-only-short/대상혁유튭.csv,e8ad5edc0c3ec3cca00ec51ab969f295e2aed797349fc96d3bdbc648053d56f6
+csv/세종류/유튜브만 있는 단기/마라탕후루_유튜브.csv,data/subsets/youtube-only-short/마라탕후루_유튜브.csv,c29df801868c711efac73a61138c8dab8270b03d0aaabe572e606df3291c913f
+csv/세종류/유튜브만 있는 단기/멈춰_유튜브.csv,data/subsets/youtube-only-short/멈춰_유튜브.csv,97620c6268e681f7a2bfa05ff0140db51909e14e9ab2b1f5c1bf25c9187a5f68
+csv/세종류/유튜브만 있는 단기/무야호_유튜브.csv,data/subsets/youtube-only-short/무야호_유튜브.csv,92d3f320a4ebf9a89bb0119de7c6f6fa96c9b7db69553efcb09a01f4d1155be2
+csv/세종류/유튜브만 있는 단기/불편하면자세를 윹.csv,data/subsets/youtube-only-short/불편하면자세를 윹.csv,1783c114f4aadb4287de62378ed7b661616ddddf1aa27d46c0a7395bdf71cb76
+csv/세종류/유튜브만 있는 단기/슬릭백_유튜브.csv,data/subsets/youtube-only-short/슬릭백_유튜브.csv,4044e1ef5adab8337a5cfe43a03c7ec9132b10efdc83ec5f76813dd66fd7d9bf
+csv/세종류/유튜브만 있는 단기/시고르자브종유튭.csv,data/subsets/youtube-only-short/시고르자브종유튭.csv,ec1a9b8257ac84f241f924b56946724a32c45557fa4812d30d623e630eec29ee
+csv/세종류/유튜브만 있는 단기/알잘딱깔센_유튜브.csv,data/subsets/youtube-only-short/알잘딱깔센_유튜브.csv,c6e2d687fdc880ca84afb204010f70f7c0c1cf0e72f4e9d52cf0fc4ddcd824ff
+csv/세종류/유튜브만 있는 단기/어쩔티비_유튜브.csv,data/subsets/youtube-only-short/어쩔티비_유튜브.csv,600a65b40c5d827a8790b9952a1a46c1408f70426c97842c42d378bf29739d38
+csv/세종류/유튜브만 있는 단기/중꺾마_유튜브.csv,data/subsets/youtube-only-short/중꺾마_유튜브.csv,4932de6f914b0c9329d8f16f491eda2395510d920e15ac3f968096b210930e9e
+csv/세종류/유튜브만 있는 단기.zip,archive/zips/유튜브만 있는 단기.zip,553ae027ea0997afa2406232091ca5bdf42befb25f59a6a9e78e6e2902b010a7
+csv/웹 전체/1루수가 누구야_웹.csv,data/raw/web-analysis/1루수가 누구야_웹.csv,3350618c4f06bdf633a99bffce362f966c8be67798d2c4c6cf0336938205f125
+csv/웹 전체/ak47_웹.csv,data/raw/web-analysis/ak47_웹.csv,56f7ff0b158c93c35c044dcac85d633778dc0fe191ecd6e34730452f4a5477ad
+csv/웹 전체/ppap_웹.csv,data/raw/web-analysis/ppap_웹.csv,2f239e3f19f9ed059807434a3caec9b06f842c78974387951a2d64503947aa29
+csv/웹 전체/tmi_웹.csv,data/raw/web-analysis/tmi_웹.csv,b4270d8a5bbf27dab0b0311b43436c576bbdb85205c82bde29cd0570ba765667
+csv/웹 전체/yee_웹.csv,data/raw/web-analysis/yee_웹.csv,418aed41ee847d2c5d5fa06b56544d2d7fc9f4795564b492b816d542a617f5e5
+csv/웹 전체/ㄷㄷㄷㅈ_웹.csv,data/raw/web-analysis/ㄷㄷㄷㅈ_웹.csv,3e45e8e2b5c9b447dd9d22843fa606da8694a7ec8ea66ce945c7b9f6603b09c4
+csv/웹 전체/ㄹㅇㅋㅋ웹.csv,data/raw/web-analysis/ㄹㅇㅋㅋ웹.csv,e3bbb3ef6b4798b915333146b7de38d5a9fc4bbd170dde7ea467de2224f3cbcb
+csv/웹 전체/ㅇㄱㄹㅇ웹.csv,data/raw/web-analysis/ㅇㄱㄹㅇ웹.csv,33cc41778efb483d9eaa8363d61ff1c38a73f0d38b5125cdf2c512e6bb097169
+csv/웹 전체/갸루피스_웹.csv,data/raw/web-analysis/갸루피스_웹.csv,85e3203c0485273df2de3bf339e5efdafaafb83f17c7d04e847b1c1445953d4d
+csv/웹 전체/관짝소년단_웹.csv,data/raw/web-analysis/관짝소년단_웹.csv,162cda538b061b8e725a7e63ce8f2a886df6e38564cf5902040e481e7dbea8d0
+csv/웹 전체/꽁꽁 얼어붙은_웹.csv,data/raw/web-analysis/꽁꽁 얼어붙은_웹.csv,8885eb37777623a2713ec671cbce302c7a0a6f74296ccd36efc0b55c5408adee
+csv/웹 전체/나문희의첫사랑웹.csv,data/raw/web-analysis/나문희의첫사랑웹.csv,60dc77b7e4d124cd2e8fc577b3523279c1501c69b11570416c1cb174e783ad21
+csv/웹 전체/나비보벳따우_웹.csv,data/raw/web-analysis/나비보벳따우_웹.csv,c502eb8b660a665070bf3aa1a9064be27c809c9360c5b86712a2b025c3e3aa1e
+csv/웹 전체/내가고자라니웹.csv,data/raw/web-analysis/내가고자라니웹.csv,173e7fe28040838256a6b0b74c4dfa438d76e2bbc9ddd307273f77c01787f82f
+csv/웹 전체/누울래_웹.csv,data/raw/web-analysis/누울래_웹.csv,1922d648c36d46779be02091973777356df678420080f283ba3ea550ed1753c0
+csv/웹 전체/느좋_웹.csv,data/raw/web-analysis/느좋_웹.csv,5ceaee8235978909f8e01b11d3b27c3440321a2aa7708767114caae1009e2a56
+csv/웹 전체/대박웹.csv,data/raw/web-analysis/대박웹.csv,f9db0ce15d2a2a7f9252d8b8baa3869e45fa9f43584112ba3b84efa517a942ec
+csv/웹 전체/대상혁웹.csv,data/raw/web-analysis/대상혁웹.csv,4d1f749c4b26bdbe042e1649e02ac2dd3dddff49cb50e334754859f4718a199f
+csv/웹 전체/댕댕이웹.csv,data/raw/web-analysis/댕댕이웹.csv,5e49004cb73a8e1cfd43c23c14ed934c85eafe3ce95fc81a0b67ab16236595cd
+csv/웹 전체/동그란맘속에피어난웹.csv,data/raw/web-analysis/동그란맘속에피어난웹.csv,8687ab159804e4c8cc36ea721941df1c2f13874c80c6ac399f3c0dc46ed9ef4f
+csv/웹 전체/드르륵칵웹.csv,data/raw/web-analysis/드르륵칵웹.csv,6ef1167c114a62e2b6264636a0c653d4984165591bbe9d24c1e8cdbc3850be24
+csv/웹 전체/똥밟았네_웹.csv,data/raw/web-analysis/똥밟았네_웹.csv,4dc61422e8e8ae4480db8e04f7604fe93db88db4c805b2749d912126f946457f
+csv/웹 전체/라고할뻔_웹.csv,data/raw/web-analysis/라고할뻔_웹.csv,b4bcbe3792bc57244eda42ff1a85b0223f0d1a054933e6af7fe56cd9dff0e18f
+csv/웹 전체/럭키비키_웹.csv,data/raw/web-analysis/럭키비키_웹.csv,ed2c56724e349c60c1bf1046bfb61e086768ddcb3921b3eb1da8cefb358b315f
+csv/웹 전체/레게노웹.csv,data/raw/web-analysis/레게노웹.csv,cfa0ccff035a9647cff6e8fdffba74f7e75d1bac78c9f40d288d3e5f220b73de
+csv/웹 전체/마기꾼_웹.csv,data/raw/web-analysis/마기꾼_웹.csv,60cd1ce70d619ba171395e2b832b50bcb7c37b82943019591bd8e971ab51c495
+csv/웹 전체/마라탕후루_웹.csv,data/raw/web-analysis/마라탕후루_웹.csv,52144d3da672cd2bfe7a73668010ac4f78559af0c4a69081aadd7428559b62bc
+csv/웹 전체/마해자웹.csv,data/raw/web-analysis/마해자웹.csv,f67360683a2751a33423f9ee24bf21143adee1ca26734a8b75a19e1b2dceacb0
+csv/웹 전체/멈춰_웹.csv,data/raw/web-analysis/멈춰_웹.csv,cb4a3b9c7c949519db1d0ae73ff12baf9f187d2610502c9a4873980a6a995d43
+csv/웹 전체/멋진직업_웹.csv,data/raw/web-analysis/멋진직업_웹.csv,39606ef6eec2f793f3a9424bb94cedd21d85d5104b2a79c127be58c038db6373
+csv/웹 전체/무야호_웹.csv,data/raw/web-analysis/무야호_웹.csv,37e7a22c520297d7873b865a5f40241723d13dfac5da9e86bb2e8efc228f1b48
+csv/웹 전체/미룬이_웹.csv,data/raw/web-analysis/미룬이_웹.csv,71660a877c5e2032dee4e86c550c4f63dc37384e588705ed643c2e3579fbf0c8
+csv/웹 전체/버억_웹.csv,data/raw/web-analysis/버억_웹.csv,3c8c4e3888a734b017c80237acd9dca8bf4d579536594244c36e85ad1aca92e2
+csv/웹 전체/불좀꺼줄래_웹.csv,data/raw/web-analysis/불좀꺼줄래_웹.csv,00ecf8ff3c550950fec0157dc7cc0e33f21e5fee2fba19d437af9fdc96430200
+csv/웹 전체/불편하면자세를웹.csv,data/raw/web-analysis/불편하면자세를웹.csv,1d43f1d0c203195b9b39b7734a8f4b5fefaafdbf293f92b254def6977d3c5e3b
+csv/웹 전체/빠끄웹.csv,data/raw/web-analysis/빠끄웹.csv,0d36edf1723b1ff51d5c25e934b386c425ce7efd0a13653a0608d46beae7aa25
+csv/웹 전체/빵꾸똥꾸_웹.csv,data/raw/web-analysis/빵꾸똥꾸_웹.csv,f92850c3da6514984e1e1428f23ef4f6a87e660c5a110f24f429ef43d3563062
+csv/웹 전체/빵상웹.csv,data/raw/web-analysis/빵상웹.csv,4b347a62459a3378782fe9809f4a5fba9fc845d118405c953308901f3678bfd0
+csv/웹 전체/사과해요나한테웹.csv,data/raw/web-analysis/사과해요나한테웹.csv,6bd0debf6f95365f80c1b33d0791bb8070ce4e2f7d5cdc590e5ed5e714da2e2f
+csv/웹 전체/사쿠란보_웹.csv,data/raw/web-analysis/사쿠란보_웹.csv,0c2c5d9223b6ce9945976dcd553c65ce846993ecc94a75588024c95da7ecefaa
+csv/웹 전체/삼각함수송웹.csv,data/raw/web-analysis/삼각함수송웹.csv,bdd0860681c41799749e13252447e863e810b3322ff4cca662a4fddd7e33ee1b
+csv/웹 전체/상상도 못한 정체_웹.csv,data/raw/web-analysis/상상도 못한 정체_웹.csv,9d8adf7f6b160cac5e625c3d4f8f64319c7d9eb295a8a49e9a410c7bf97d5c10
+csv/웹 전체/샤샤샤_웹.csv,data/raw/web-analysis/샤샤샤_웹.csv,6c714d17575d2213a92c43e414f8ad461e6eaf8700d6b6b68ab99b191bf43b0d
+csv/웹 전체/스껄할래웹.csv,data/raw/web-analysis/스껄할래웹.csv,f07376fc3e96184b119758dede6c778c4678abac5827f3601c964a53e3a28343
+csv/웹 전체/스웩_웹.csv,data/raw/web-analysis/스웩_웹.csv,4e0bf33ebc5321ee46e85c76f38b545031ceab2d6b229b9a560733d9f9620444
+csv/웹 전체/슬릭백_웹.csv,data/raw/web-analysis/슬릭백_웹.csv,c2c22e551dffbe0548d0b77dce829bcdeaeeafe3efe00e1e041e2884ba4a1f3e
+csv/웹 전체/신뢰에요웹.csv,data/raw/web-analysis/신뢰에요웹.csv,53987f16d30dba4088707acca9404336abbccc32ea7154a03f597535281483b8
+csv/웹 전체/실화냐_웹.csv,data/raw/web-analysis/실화냐_웹.csv,64428f42571c63d173f98c779f909eb7d48145dd9ceee3d434dfd08336faea03
+csv/웹 전체/쌩얼_웹.csv,data/raw/web-analysis/쌩얼_웹.csv,d71fb91d96f00d016d04454a6a2c445bccd60147c3bfe1d50c5246d8d9a517fc
+csv/웹 전체/아이스버킷_웹.csv,data/raw/web-analysis/아이스버킷_웹.csv,9ba04ab98d36cd36fc56612c8580cb86c47fc1b2da093241b5eeda42cff5b78d
+csv/웹 전체/악깡버_웹.csv,data/raw/web-analysis/악깡버_웹.csv,9eec7598de72fa60877d2181ed641abe52227ff588616941825608acd07e7bae
+csv/웹 전체/안녕하살법_웹.csv,data/raw/web-analysis/안녕하살법_웹.csv,ace5d5056bdd2936b3cf5e6f2dc8cf8c626b5764600f3330d2bdbe3987589f49
+csv/웹 전체/알잘딱깔센_웹.csv,data/raw/web-analysis/알잘딱깔센_웹.csv,da5a6ff1945945dba2e1954ab0b8f9cfbbb42e829bec9c8a23e8a6498a3471a8
+csv/웹 전체/야꿀벌_웹.csv,data/raw/web-analysis/야꿀벌_웹.csv,ffd2ad888a085c443f78824821f481dda1c3e2ee34bc70f4ae5d0119e3d198c7
+csv/웹 전체/어이가없네웹.csv,data/raw/web-analysis/어이가없네웹.csv,2e4e8b12e61193b019dd08ac40d56fa547689c4c7f36a96a650a93e210abc108
+csv/웹 전체/어쩔티비_웹.csv,data/raw/web-analysis/어쩔티비_웹.csv,690813c534d10f6832237a99ad3aa08f11be764f711eb3e457c4d81a0e64adfc
+csv/웹 전체/웃음벨_웹.csv,data/raw/web-analysis/웃음벨_웹.csv,e859c0db42bc9ef0b32504c6247ce963e32c22b9da453ebc892fefed06ac14a9
+csv/웹 전체/응아니야웹.csv,data/raw/web-analysis/응아니야웹.csv,3a26a6195e960f08ff9bd0dc63cbafdebb12fe712b6fdbc35bea1f3fa3139e0b
+csv/웹 전체/이왜진_웹.csv,data/raw/web-analysis/이왜진_웹.csv,7a3957acd49528c24795b08bb85ee8da191294c622bedcd5197e50070c7aee26
+csv/웹 전체/장충동왕족발_웹.csv,data/raw/web-analysis/장충동왕족발_웹.csv,1194c819f3c58bcae5e99479cccbb6d72431aaf23561f9f23c507490d7b15763
+csv/웹 전체/중꺾마_웹.csv,data/raw/web-analysis/중꺾마_웹.csv,22666325f87d52007a531292db0ae6123adc921e9a218560ba639922ea0ed795
+csv/웹 전체/지구방위대_웹.csv,data/raw/web-analysis/지구방위대_웹.csv,d784445cd0c76dfb66e14bd1a73e8df47cf00648b4fa185b04e8cfe733a40064
+csv/웹 전체/진실의방_웹.csv,data/raw/web-analysis/진실의방_웹.csv,f2de7dee5088e9b1889bcbaf19aa8db8af259d3fb7ecc03de07b97d37fe09829
+csv/웹 전체/진지충웹.csv,data/raw/web-analysis/진지충웹.csv,f7a8d49ae748703e7e251cd8c3ee4523666e4237169741b5387f68b1137d1f21
+csv/웹 전체/찰리찰리_웹.csv,data/raw/web-analysis/찰리찰리_웹.csv,1a9ae290e0b180189a98477028dfc22bd4c3c5cc35eb8b9125da8513dd7fe245
+csv/웹 전체/칠가이_웹.csv,data/raw/web-analysis/칠가이_웹.csv,d506fdacabf9a20f57ad9078d0f5a5c96d24aad38543d75c274f1a7789d3ac80
+csv/웹 전체/코카인댄스웹.csv,data/raw/web-analysis/코카인댄스웹.csv,48d4682e1f2d6d895a4f3dac6668f4f1d93ad7817aa091d969f730dac61c7719
+csv/웹 전체/펭수_웹.csv,data/raw/web-analysis/펭수_웹.csv,cbf51f1ddf8180397848fe643286c2580130b5337b9052b60f3a705d99a9721d
+csv/웹 전체/포켓몬빵_웹.csv,data/raw/web-analysis/포켓몬빵_웹.csv,df46e41a704ac21642df9d1e73d4e7096c91d8d3785182d4925d218e746a8408
+csv/웹 전체/한본어_웹.csv,data/raw/web-analysis/한본어_웹.csv,8807fa8b67ca73f2ba1661541d8520c32a676ad9e7b6f72daf1087eb8ad35ed7
+csv/웹 전체/할말이없네웹.csv,data/raw/web-analysis/할말이없네웹.csv,3d114f4639df52dfa466df177c03e5bc357bc0f084d8285a734ee916db1ede47
+csv/웹 전체/항아리게임_웹.csv,data/raw/web-analysis/항아리게임_웹.csv,2c7f2b91e041d2deeeac11abd67908737124c6da77c9774d58a3123803a8f581
+csv/웹 전체/해피켓웹.csv,data/raw/web-analysis/해피켓웹.csv,cb6e90f2c73e53f4be1a9f6722ab5b91c9747f64111723618c6384272dfb1273
+csv/웹 전체/햄부기_웹.csv,data/raw/web-analysis/햄부기_웹.csv,0cf25329419073490f3c86a5eafcf963f86c77d99eb598c0fb39dce29c309758
+csv/웹 전체/허거덩거덩스웹.csv,data/raw/web-analysis/허거덩거덩스웹.csv,6b621b7f4924f12a54766376c23204a0b57ce015842d36233598e15c17dfb7a1
+csv/웹 전체/헤어지자고너누군데웹.csv,data/raw/web-analysis/헤어지자고너누군데웹.csv,744d357be6153e1d9e9fe7b251545f5d21ecf8b158ae4100ab30a59ee7ff726b
+csv/웹 전체/홍박사_웹.csv,data/raw/web-analysis/홍박사_웹.csv,f7a4900a3b09e6236986c1a4abced2e620ab3bf8717b1cdcefbb29a4f75a42b3
+csv/웹 전체/흥웃기는소리웹.csv,data/raw/web-analysis/흥웃기는소리웹.csv,9a3c6fa115a2b812e9e5568135712868a82d1434ed13aca50ab2141989d2847e
+csv/웹 전체 원본/1루수가 누구야_웹.csv,data/raw/web-analysis/1루수가 누구야_웹.csv,3350618c4f06bdf633a99bffce362f966c8be67798d2c4c6cf0336938205f125
+csv/웹 전체 원본/MZ_웹.csv,data/raw/web-original/MZ_웹.csv,5871b847e37bd02460a4262b3dc0f985e014e30b7b9c66443c050c5fe07e8d07
+csv/웹 전체 원본/ak47_웹.csv,data/raw/web-analysis/ak47_웹.csv,56f7ff0b158c93c35c044dcac85d633778dc0fe191ecd6e34730452f4a5477ad
+csv/웹 전체 원본/mbti_웹.csv,data/raw/web-original/mbti_웹.csv,35218075aaee5e151bb2b9c7d6dc0b8b9bc2bee0c67ad5e7b7ab6fd59917b42d
+csv/웹 전체 원본/ppap_웹.csv,data/raw/web-analysis/ppap_웹.csv,2f239e3f19f9ed059807434a3caec9b06f842c78974387951a2d64503947aa29
+csv/웹 전체 원본/tmi_웹.csv,data/raw/web-analysis/tmi_웹.csv,b4270d8a5bbf27dab0b0311b43436c576bbdb85205c82bde29cd0570ba765667
+csv/웹 전체 원본/yee_웹.csv,data/raw/web-analysis/yee_웹.csv,418aed41ee847d2c5d5fa06b56544d2d7fc9f4795564b492b816d542a617f5e5
+csv/웹 전체 원본/ㄷㄷㄷㅈ_웹.csv,data/raw/web-analysis/ㄷㄷㄷㅈ_웹.csv,3e45e8e2b5c9b447dd9d22843fa606da8694a7ec8ea66ce945c7b9f6603b09c4
+csv/웹 전체 원본/ㄹㅇㅋㅋ웹.csv,data/raw/web-analysis/ㄹㅇㅋㅋ웹.csv,e3bbb3ef6b4798b915333146b7de38d5a9fc4bbd170dde7ea467de2224f3cbcb
+csv/웹 전체 원본/ㅇㄱㄹㅇ웹.csv,data/raw/web-analysis/ㅇㄱㄹㅇ웹.csv,33cc41778efb483d9eaa8363d61ff1c38a73f0d38b5125cdf2c512e6bb097169
+csv/웹 전체 원본/갸루피스_웹.csv,data/raw/web-analysis/갸루피스_웹.csv,85e3203c0485273df2de3bf339e5efdafaafb83f17c7d04e847b1c1445953d4d
+csv/웹 전체 원본/관짝소년단_웹.csv,data/raw/web-analysis/관짝소년단_웹.csv,162cda538b061b8e725a7e63ce8f2a886df6e38564cf5902040e481e7dbea8d0
+csv/웹 전체 원본/국룰_웹.csv,data/raw/web-original/국룰_웹.csv,d6e2d83a7deacea3148de112103c16445cec9ccdd5746b6fc2c1af8b4950122c
+csv/웹 전체 원본/그거아세요웹.csv,data/raw/web-original/그거아세요웹.csv,75d164961acfaeafa9d03751d9e8fac0feb3d6c361ce1599699c516bbf8a45ec
+csv/웹 전체 원본/금쪽이웹.csv,data/raw/web-original/금쪽이웹.csv,9c065805e93501798cd8160bb504c92acfe2d7296bc40ca533fae47146f3cd49
+csv/웹 전체 원본/꽁꽁 얼어붙은_웹.csv,data/raw/web-analysis/꽁꽁 얼어붙은_웹.csv,8885eb37777623a2713ec671cbce302c7a0a6f74296ccd36efc0b55c5408adee
+csv/웹 전체 원본/나문희의첫사랑웹.csv,data/raw/web-analysis/나문희의첫사랑웹.csv,60dc77b7e4d124cd2e8fc577b3523279c1501c69b11570416c1cb174e783ad21
+csv/웹 전체 원본/나비보벳따우_웹.csv,data/raw/web-analysis/나비보벳따우_웹.csv,c502eb8b660a665070bf3aa1a9064be27c809c9360c5b86712a2b025c3e3aa1e
+csv/웹 전체 원본/내가고자라니웹.csv,data/raw/web-analysis/내가고자라니웹.csv,173e7fe28040838256a6b0b74c4dfa438d76e2bbc9ddd307273f77c01787f82f
+csv/웹 전체 원본/뇌절_웹.csv,data/raw/web-original/뇌절_웹.csv,a587d0afeb44472c5a5f34c92e844b7b6355513873db959b843283d9a51d4a89
+csv/웹 전체 원본/누울래_웹.csv,data/raw/web-analysis/누울래_웹.csv,1922d648c36d46779be02091973777356df678420080f283ba3ea550ed1753c0
+csv/웹 전체 원본/느좋_웹.csv,data/raw/web-analysis/느좋_웹.csv,5ceaee8235978909f8e01b11d3b27c3440321a2aa7708767114caae1009e2a56
+csv/웹 전체 원본/대박웹.csv,data/raw/web-analysis/대박웹.csv,f9db0ce15d2a2a7f9252d8b8baa3869e45fa9f43584112ba3b84efa517a942ec
+csv/웹 전체 원본/대상혁웹.csv,data/raw/web-analysis/대상혁웹.csv,4d1f749c4b26bdbe042e1649e02ac2dd3dddff49cb50e334754859f4718a199f
+csv/웹 전체 원본/댕댕이웹.csv,data/raw/web-analysis/댕댕이웹.csv,5e49004cb73a8e1cfd43c23c14ed934c85eafe3ce95fc81a0b67ab16236595cd
+csv/웹 전체 원본/동그란맘속에피어난웹.csv,data/raw/web-analysis/동그란맘속에피어난웹.csv,8687ab159804e4c8cc36ea721941df1c2f13874c80c6ac399f3c0dc46ed9ef4f
+csv/웹 전체 원본/드르륵칵웹.csv,data/raw/web-analysis/드르륵칵웹.csv,6ef1167c114a62e2b6264636a0c653d4984165591bbe9d24c1e8cdbc3850be24
+csv/웹 전체 원본/똥밟았네_웹.csv,data/raw/web-analysis/똥밟았네_웹.csv,4dc61422e8e8ae4480db8e04f7604fe93db88db4c805b2749d912126f946457f
+csv/웹 전체 원본/라고할뻔_웹.csv,data/raw/web-analysis/라고할뻔_웹.csv,b4bcbe3792bc57244eda42ff1a85b0223f0d1a054933e6af7fe56cd9dff0e18f
+csv/웹 전체 원본/럭키비키_웹.csv,data/raw/web-analysis/럭키비키_웹.csv,ed2c56724e349c60c1bf1046bfb61e086768ddcb3921b3eb1da8cefb358b315f
+csv/웹 전체 원본/레게노웹.csv,data/raw/web-analysis/레게노웹.csv,cfa0ccff035a9647cff6e8fdffba74f7e75d1bac78c9f40d288d3e5f220b73de
+csv/웹 전체 원본/마기꾼_웹.csv,data/raw/web-analysis/마기꾼_웹.csv,60cd1ce70d619ba171395e2b832b50bcb7c37b82943019591bd8e971ab51c495
+csv/웹 전체 원본/마라탕후루_웹.csv,data/raw/web-analysis/마라탕후루_웹.csv,52144d3da672cd2bfe7a73668010ac4f78559af0c4a69081aadd7428559b62bc
+csv/웹 전체 원본/마해자웹.csv,data/raw/web-analysis/마해자웹.csv,f67360683a2751a33423f9ee24bf21143adee1ca26734a8b75a19e1b2dceacb0
+csv/웹 전체 원본/맑눈광_웹.csv,data/raw/web-original/맑눈광_웹.csv,7d284478876bbed9b279cc6aed3caa0aaa545d409eea7af22324db627f6289fc
+csv/웹 전체 원본/멈춰_웹.csv,data/raw/web-analysis/멈춰_웹.csv,cb4a3b9c7c949519db1d0ae73ff12baf9f187d2610502c9a4873980a6a995d43
+csv/웹 전체 원본/멋진직업_웹.csv,data/raw/web-analysis/멋진직업_웹.csv,39606ef6eec2f793f3a9424bb94cedd21d85d5104b2a79c127be58c038db6373
+csv/웹 전체 원본/무야호_웹.csv,data/raw/web-analysis/무야호_웹.csv,37e7a22c520297d7873b865a5f40241723d13dfac5da9e86bb2e8efc228f1b48
+csv/웹 전체 원본/미룬이_웹.csv,data/raw/web-analysis/미룬이_웹.csv,71660a877c5e2032dee4e86c550c4f63dc37384e588705ed643c2e3579fbf0c8
+csv/웹 전체 원본/버억_웹.csv,data/raw/web-analysis/버억_웹.csv,3c8c4e3888a734b017c80237acd9dca8bf4d579536594244c36e85ad1aca92e2
+csv/웹 전체 원본/불좀꺼줄래_웹.csv,data/raw/web-analysis/불좀꺼줄래_웹.csv,00ecf8ff3c550950fec0157dc7cc0e33f21e5fee2fba19d437af9fdc96430200
+csv/웹 전체 원본/불편하면자세를웹.csv,data/raw/web-analysis/불편하면자세를웹.csv,1d43f1d0c203195b9b39b7734a8f4b5fefaafdbf293f92b254def6977d3c5e3b
+csv/웹 전체 원본/빠끄웹.csv,data/raw/web-analysis/빠끄웹.csv,0d36edf1723b1ff51d5c25e934b386c425ce7efd0a13653a0608d46beae7aa25
+csv/웹 전체 원본/빵꾸똥꾸_웹.csv,data/raw/web-analysis/빵꾸똥꾸_웹.csv,f92850c3da6514984e1e1428f23ef4f6a87e660c5a110f24f429ef43d3563062
+csv/웹 전체 원본/빵상웹.csv,data/raw/web-analysis/빵상웹.csv,4b347a62459a3378782fe9809f4a5fba9fc845d118405c953308901f3678bfd0
+csv/웹 전체 원본/삐끼삐끼_웹.csv,data/raw/web-original/삐끼삐끼_웹.csv,ce2caa3db04d5d98c0750b6671ccf5669ac3e6f980cea6864ceb8dd7b89961bd
+csv/웹 전체 원본/사과해요나한테웹.csv,data/raw/web-analysis/사과해요나한테웹.csv,6bd0debf6f95365f80c1b33d0791bb8070ce4e2f7d5cdc590e5ed5e714da2e2f
+csv/웹 전체 원본/사쿠란보_웹.csv,data/raw/web-analysis/사쿠란보_웹.csv,0c2c5d9223b6ce9945976dcd553c65ce846993ecc94a75588024c95da7ecefaa
+csv/웹 전체 원본/삼각함수송웹.csv,data/raw/web-analysis/삼각함수송웹.csv,bdd0860681c41799749e13252447e863e810b3322ff4cca662a4fddd7e33ee1b
+csv/웹 전체 원본/상상도 못한 정체_웹.csv,data/raw/web-analysis/상상도 못한 정체_웹.csv,9d8adf7f6b160cac5e625c3d4f8f64319c7d9eb295a8a49e9a410c7bf97d5c10
+csv/웹 전체 원본/샤샤샤_웹.csv,data/raw/web-analysis/샤샤샤_웹.csv,6c714d17575d2213a92c43e414f8ad461e6eaf8700d6b6b68ab99b191bf43b0d
+csv/웹 전체 원본/스껄할래웹.csv,data/raw/web-analysis/스껄할래웹.csv,f07376fc3e96184b119758dede6c778c4678abac5827f3601c964a53e3a28343
+csv/웹 전체 원본/스웩_웹.csv,data/raw/web-analysis/스웩_웹.csv,4e0bf33ebc5321ee46e85c76f38b545031ceab2d6b229b9a560733d9f9620444
+csv/웹 전체 원본/슬릭백_웹.csv,data/raw/web-analysis/슬릭백_웹.csv,c2c22e551dffbe0548d0b77dce829bcdeaeeafe3efe00e1e041e2884ba4a1f3e
+csv/웹 전체 원본/시고르자브종웹.csv,data/raw/web-original/시고르자브종웹.csv,111e909c657f5abcfac87ebc3f0d8f891871edd4f52d18c906c572fcd5ee463b
+csv/웹 전체 원본/시그마보이_웹.csv,data/raw/web-original/시그마보이_웹.csv,6e1d58207cf9fb6ba3e7e7487be381bfe23f36ce0c4e93e531dc2d2d20daab4a
+csv/웹 전체 원본/신뢰에요웹.csv,data/raw/web-analysis/신뢰에요웹.csv,53987f16d30dba4088707acca9404336abbccc32ea7154a03f597535281483b8
+csv/웹 전체 원본/실화냐_웹.csv,data/raw/web-analysis/실화냐_웹.csv,64428f42571c63d173f98c779f909eb7d48145dd9ceee3d434dfd08336faea03
+csv/웹 전체 원본/쌩얼_웹.csv,data/raw/web-analysis/쌩얼_웹.csv,d71fb91d96f00d016d04454a6a2c445bccd60147c3bfe1d50c5246d8d9a517fc
+csv/웹 전체 원본/아기상어_웹.csv,data/raw/web-original/아기상어_웹.csv,46ec4738542feec4c24114dcb13dfd85a8586c4713cb6a5c68f4c9cf695e6be6
+csv/웹 전체 원본/아이스버킷_웹.csv,data/raw/web-analysis/아이스버킷_웹.csv,9ba04ab98d36cd36fc56612c8580cb86c47fc1b2da093241b5eeda42cff5b78d
+csv/웹 전체 원본/악깡버_웹.csv,data/raw/web-analysis/악깡버_웹.csv,9eec7598de72fa60877d2181ed641abe52227ff588616941825608acd07e7bae
+csv/웹 전체 원본/안녕하살법_웹.csv,data/raw/web-analysis/안녕하살법_웹.csv,ace5d5056bdd2936b3cf5e6f2dc8cf8c626b5764600f3330d2bdbe3987589f49
+csv/웹 전체 원본/알잘딱깔센_웹.csv,data/raw/web-analysis/알잘딱깔센_웹.csv,da5a6ff1945945dba2e1954ab0b8f9cfbbb42e829bec9c8a23e8a6498a3471a8
+csv/웹 전체 원본/알파메일_웹.csv,data/raw/web-original/알파메일_웹.csv,8a2c9bc70c6bd76eb7b685dd5f2929c00f2fee0481c59bc502fc0d95dfeca339
+csv/웹 전체 원본/야꿀벌_웹.csv,data/raw/web-analysis/야꿀벌_웹.csv,ffd2ad888a085c443f78824821f481dda1c3e2ee34bc70f4ae5d0119e3d198c7
+csv/웹 전체 원본/어이가없네웹.csv,data/raw/web-analysis/어이가없네웹.csv,2e4e8b12e61193b019dd08ac40d56fa547689c4c7f36a96a650a93e210abc108
+csv/웹 전체 원본/어쩔티비_웹.csv,data/raw/web-analysis/어쩔티비_웹.csv,690813c534d10f6832237a99ad3aa08f11be764f711eb3e457c4d81a0e64adfc
+csv/웹 전체 원본/웃음벨_웹.csv,data/raw/web-analysis/웃음벨_웹.csv,e859c0db42bc9ef0b32504c6247ce963e32c22b9da453ebc892fefed06ac14a9
+csv/웹 전체 원본/응아니야웹.csv,data/raw/web-analysis/응아니야웹.csv,3a26a6195e960f08ff9bd0dc63cbafdebb12fe712b6fdbc35bea1f3fa3139e0b
+csv/웹 전체 원본/이왜진_웹.csv,data/raw/web-analysis/이왜진_웹.csv,7a3957acd49528c24795b08bb85ee8da191294c622bedcd5197e50070c7aee26
+csv/웹 전체 원본/인싸_웹.csv,data/raw/web-original/인싸_웹.csv,8dbf4caea2f2b04dd26afc080dcf7af4de8abf7cfdbffea68aa341a87045eb71
+csv/웹 전체 원본/자중해_웹.csv,data/raw/web-original/자중해_웹.csv,ff814193bf5a661cb5d01b68c3b7edbf1c5e2cf26c9718e1e31c4eaddcb08b63
+csv/웹 전체 원본/장충동왕족발_웹.csv,data/raw/web-analysis/장충동왕족발_웹.csv,1194c819f3c58bcae5e99479cccbb6d72431aaf23561f9f23c507490d7b15763
+csv/웹 전체 원본/잼민이웹.csv,data/raw/web-original/잼민이웹.csv,f15816d82d2d5710620cf0ac31629b8eda57d55582d48227780f195feb61af68
+csv/웹 전체 원본/존예_웹.csv,data/raw/web-original/존예_웹.csv,b55054d48914cff127622d667c9bb0612c3733b412e1dbea819d822c8d144872
+csv/웹 전체 원본/중꺾마_웹.csv,data/raw/web-analysis/중꺾마_웹.csv,22666325f87d52007a531292db0ae6123adc921e9a218560ba639922ea0ed795
+csv/웹 전체 원본/지구방위대_웹.csv,data/raw/web-analysis/지구방위대_웹.csv,d784445cd0c76dfb66e14bd1a73e8df47cf00648b4fa185b04e8cfe733a40064
+csv/웹 전체 원본/진실의방_웹.csv,data/raw/web-analysis/진실의방_웹.csv,f2de7dee5088e9b1889bcbaf19aa8db8af259d3fb7ecc03de07b97d37fe09829
+csv/웹 전체 원본/진지충웹.csv,data/raw/web-analysis/진지충웹.csv,f7a8d49ae748703e7e251cd8c3ee4523666e4237169741b5387f68b1137d1f21
+csv/웹 전체 원본/찰리찰리_웹.csv,data/raw/web-analysis/찰리찰리_웹.csv,1a9ae290e0b180189a98477028dfc22bd4c3c5cc35eb8b9125da8513dd7fe245
+csv/웹 전체 원본/충주맨_웹.csv,data/raw/web-original/충주맨_웹.csv,02f885e7b3382f1da50ab31ad786b4a0500496961e6882f06464b742cebcd9b9
+csv/웹 전체 원본/칠가이_웹.csv,data/raw/web-analysis/칠가이_웹.csv,d506fdacabf9a20f57ad9078d0f5a5c96d24aad38543d75c274f1a7789d3ac80
+csv/웹 전체 원본/코카인댄스웹.csv,data/raw/web-analysis/코카인댄스웹.csv,48d4682e1f2d6d895a4f3dac6668f4f1d93ad7817aa091d969f730dac61c7719
+csv/웹 전체 원본/트랄랄레로_웹.csv,data/raw/web-original/트랄랄레로_웹.csv,c71752411ab52163c172cac23c0536d897b64fdc6ad0efe3f4d460071ce7bd65
+csv/웹 전체 원본/티니핑_웹.csv,data/raw/web-original/티니핑_웹.csv,361dac134f0aecd5023b20e7b2ad9985ca740a692e8e008ddba915fd9c9a7b3c
+csv/웹 전체 원본/펭수_웹.csv,data/raw/web-analysis/펭수_웹.csv,cbf51f1ddf8180397848fe643286c2580130b5337b9052b60f3a705d99a9721d
+csv/웹 전체 원본/포켓몬빵_웹.csv,data/raw/web-analysis/포켓몬빵_웹.csv,df46e41a704ac21642df9d1e73d4e7096c91d8d3785182d4925d218e746a8408
+csv/웹 전체 원본/한본어_웹.csv,data/raw/web-analysis/한본어_웹.csv,8807fa8b67ca73f2ba1661541d8520c32a676ad9e7b6f72daf1087eb8ad35ed7
+csv/웹 전체 원본/할말이없네웹.csv,data/raw/web-analysis/할말이없네웹.csv,3d114f4639df52dfa466df177c03e5bc357bc0f084d8285a734ee916db1ede47
+csv/웹 전체 원본/항아리게임_웹.csv,data/raw/web-analysis/항아리게임_웹.csv,2c7f2b91e041d2deeeac11abd67908737124c6da77c9774d58a3123803a8f581
+csv/웹 전체 원본/해피켓웹.csv,data/raw/web-analysis/해피켓웹.csv,cb6e90f2c73e53f4be1a9f6722ab5b91c9747f64111723618c6384272dfb1273
+csv/웹 전체 원본/햄부기_웹.csv,data/raw/web-analysis/햄부기_웹.csv,0cf25329419073490f3c86a5eafcf963f86c77d99eb598c0fb39dce29c309758
+csv/웹 전체 원본/허거덩거덩스웹.csv,data/raw/web-analysis/허거덩거덩스웹.csv,6b621b7f4924f12a54766376c23204a0b57ce015842d36233598e15c17dfb7a1
+csv/웹 전체 원본/헤어지자고너누군데웹.csv,data/raw/web-analysis/헤어지자고너누군데웹.csv,744d357be6153e1d9e9fe7b251545f5d21ecf8b158ae4100ab30a59ee7ff726b
+csv/웹 전체 원본/헬창_웹.csv,data/raw/web-original/헬창_웹.csv,8ac86e70caa916fdb6d4379704a94d8acce4553ac18b0121f43dea757d6ec906
+csv/웹 전체 원본/홍박사_웹.csv,data/raw/web-analysis/홍박사_웹.csv,f7a4900a3b09e6236986c1a4abced2e620ab3bf8717b1cdcefbb29a4f75a42b3
+csv/웹 전체 원본/흥웃기는소리웹.csv,data/raw/web-analysis/흥웃기는소리웹.csv,9a3c6fa115a2b812e9e5568135712868a82d1434ed13aca50ab2141989d2847e
+csv/웹 전체.zip,archive/zips/웹 전체.zip,7309c72f39dfc0e8d2a640ee4dfe9d03fa2ffcde0ef6b0dd5c6096cff8e41916
+csv/웹_단기/ppap_웹.csv,data/raw/web-analysis/ppap_웹.csv,2f239e3f19f9ed059807434a3caec9b06f842c78974387951a2d64503947aa29
+csv/웹_단기/tmi_웹.csv,data/raw/web-analysis/tmi_웹.csv,b4270d8a5bbf27dab0b0311b43436c576bbdb85205c82bde29cd0570ba765667
+csv/웹_단기/ㄷㄷㄷㅈ_웹.csv,data/raw/web-analysis/ㄷㄷㄷㅈ_웹.csv,3e45e8e2b5c9b447dd9d22843fa606da8694a7ec8ea66ce945c7b9f6603b09c4
+csv/웹_단기/갸루피스_웹.csv,data/raw/web-analysis/갸루피스_웹.csv,85e3203c0485273df2de3bf339e5efdafaafb83f17c7d04e847b1c1445953d4d
+csv/웹_단기/꽁꽁 얼어붙은_웹.csv,data/raw/web-analysis/꽁꽁 얼어붙은_웹.csv,8885eb37777623a2713ec671cbce302c7a0a6f74296ccd36efc0b55c5408adee
+csv/웹_단기/나문희의첫사랑웹.csv,data/raw/web-analysis/나문희의첫사랑웹.csv,60dc77b7e4d124cd2e8fc577b3523279c1501c69b11570416c1cb174e783ad21
+csv/웹_단기/나비보벳따우_웹.csv,data/raw/web-analysis/나비보벳따우_웹.csv,c502eb8b660a665070bf3aa1a9064be27c809c9360c5b86712a2b025c3e3aa1e
+csv/웹_단기/내가고자라니웹.csv,data/raw/web-analysis/내가고자라니웹.csv,173e7fe28040838256a6b0b74c4dfa438d76e2bbc9ddd307273f77c01787f82f
+csv/웹_단기/누울래_웹.csv,data/raw/web-analysis/누울래_웹.csv,1922d648c36d46779be02091973777356df678420080f283ba3ea550ed1753c0
+csv/웹_단기/느좋_웹.csv,data/raw/web-analysis/느좋_웹.csv,5ceaee8235978909f8e01b11d3b27c3440321a2aa7708767114caae1009e2a56
+csv/웹_단기/동그란맘속에피어난웹.csv,data/raw/web-analysis/동그란맘속에피어난웹.csv,8687ab159804e4c8cc36ea721941df1c2f13874c80c6ac399f3c0dc46ed9ef4f
+csv/웹_단기/드르륵칵웹.csv,data/raw/web-analysis/드르륵칵웹.csv,6ef1167c114a62e2b6264636a0c653d4984165591bbe9d24c1e8cdbc3850be24
+csv/웹_단기/똥밟았네_웹.csv,data/raw/web-analysis/똥밟았네_웹.csv,4dc61422e8e8ae4480db8e04f7604fe93db88db4c805b2749d912126f946457f
+csv/웹_단기/멋진직업_웹.csv,data/raw/web-analysis/멋진직업_웹.csv,39606ef6eec2f793f3a9424bb94cedd21d85d5104b2a79c127be58c038db6373
+csv/웹_단기/미룬이_웹.csv,data/raw/web-analysis/미룬이_웹.csv,71660a877c5e2032dee4e86c550c4f63dc37384e588705ed643c2e3579fbf0c8
+csv/웹_단기/버억_웹.csv,data/raw/web-analysis/버억_웹.csv,3c8c4e3888a734b017c80237acd9dca8bf4d579536594244c36e85ad1aca92e2
+csv/웹_단기/빵꾸똥꾸_웹.csv,data/raw/web-analysis/빵꾸똥꾸_웹.csv,f92850c3da6514984e1e1428f23ef4f6a87e660c5a110f24f429ef43d3563062
+csv/웹_단기/빵상웹.csv,data/raw/web-analysis/빵상웹.csv,4b347a62459a3378782fe9809f4a5fba9fc845d118405c953308901f3678bfd0
+csv/웹_단기/삼각함수송웹.csv,data/raw/web-analysis/삼각함수송웹.csv,bdd0860681c41799749e13252447e863e810b3322ff4cca662a4fddd7e33ee1b
+csv/웹_단기/샤샤샤_웹.csv,data/raw/web-analysis/샤샤샤_웹.csv,6c714d17575d2213a92c43e414f8ad461e6eaf8700d6b6b68ab99b191bf43b0d
+csv/웹_단기/스껄할래웹.csv,data/raw/web-analysis/스껄할래웹.csv,f07376fc3e96184b119758dede6c778c4678abac5827f3601c964a53e3a28343
+csv/웹_단기/시그마보이_웹.csv,data/raw/web-original/시그마보이_웹.csv,6e1d58207cf9fb6ba3e7e7487be381bfe23f36ce0c4e93e531dc2d2d20daab4a
+csv/웹_단기/신뢰에요웹.csv,data/raw/web-analysis/신뢰에요웹.csv,53987f16d30dba4088707acca9404336abbccc32ea7154a03f597535281483b8
+csv/웹_단기/실화냐_웹.csv,data/raw/web-analysis/실화냐_웹.csv,64428f42571c63d173f98c779f909eb7d48145dd9ceee3d434dfd08336faea03
+csv/웹_단기/쌩얼_웹.csv,data/raw/web-analysis/쌩얼_웹.csv,d71fb91d96f00d016d04454a6a2c445bccd60147c3bfe1d50c5246d8d9a517fc
+csv/웹_단기/아이스버킷_웹.csv,data/raw/web-analysis/아이스버킷_웹.csv,9ba04ab98d36cd36fc56612c8580cb86c47fc1b2da093241b5eeda42cff5b78d
+csv/웹_단기/악깡버_웹.csv,data/raw/web-analysis/악깡버_웹.csv,9eec7598de72fa60877d2181ed641abe52227ff588616941825608acd07e7bae
+csv/웹_단기/안녕하살법_웹.csv,data/raw/web-analysis/안녕하살법_웹.csv,ace5d5056bdd2936b3cf5e6f2dc8cf8c626b5764600f3330d2bdbe3987589f49
+csv/웹_단기/웃음벨_웹.csv,data/raw/web-analysis/웃음벨_웹.csv,e859c0db42bc9ef0b32504c6247ce963e32c22b9da453ebc892fefed06ac14a9
+csv/웹_단기/응아니야웹.csv,data/raw/web-analysis/응아니야웹.csv,3a26a6195e960f08ff9bd0dc63cbafdebb12fe712b6fdbc35bea1f3fa3139e0b
+csv/웹_단기/장충동왕족발_웹.csv,data/raw/web-analysis/장충동왕족발_웹.csv,1194c819f3c58bcae5e99479cccbb6d72431aaf23561f9f23c507490d7b15763
+csv/웹_단기/지구방위대_웹.csv,data/raw/web-analysis/지구방위대_웹.csv,d784445cd0c76dfb66e14bd1a73e8df47cf00648b4fa185b04e8cfe733a40064
+csv/웹_단기/진실의방_웹.csv,data/raw/web-analysis/진실의방_웹.csv,f2de7dee5088e9b1889bcbaf19aa8db8af259d3fb7ecc03de07b97d37fe09829
+csv/웹_단기/진지충웹.csv,data/raw/web-analysis/진지충웹.csv,f7a8d49ae748703e7e251cd8c3ee4523666e4237169741b5387f68b1137d1f21
+csv/웹_단기/찰리찰리_웹.csv,data/raw/web-analysis/찰리찰리_웹.csv,1a9ae290e0b180189a98477028dfc22bd4c3c5cc35eb8b9125da8513dd7fe245
+csv/웹_단기/칠가이_웹.csv,data/raw/web-analysis/칠가이_웹.csv,d506fdacabf9a20f57ad9078d0f5a5c96d24aad38543d75c274f1a7789d3ac80
+csv/웹_단기/트랄랄레로_웹.csv,data/raw/web-original/트랄랄레로_웹.csv,c71752411ab52163c172cac23c0536d897b64fdc6ad0efe3f4d460071ce7bd65
+csv/웹_단기/할말이없네웹.csv,data/raw/web-analysis/할말이없네웹.csv,3d114f4639df52dfa466df177c03e5bc357bc0f084d8285a734ee916db1ede47
+csv/웹_단기/항아리게임_웹.csv,data/raw/web-analysis/항아리게임_웹.csv,2c7f2b91e041d2deeeac11abd67908737124c6da77c9774d58a3123803a8f581
+csv/웹_단기/해피켓웹.csv,data/raw/web-analysis/해피켓웹.csv,cb6e90f2c73e53f4be1a9f6722ab5b91c9747f64111723618c6384272dfb1273
+csv/웹_단기/햄부기_웹.csv,data/raw/web-analysis/햄부기_웹.csv,0cf25329419073490f3c86a5eafcf963f86c77d99eb598c0fb39dce29c309758
+csv/웹_단기/허거덩거덩스웹.csv,data/raw/web-analysis/허거덩거덩스웹.csv,6b621b7f4924f12a54766376c23204a0b57ce015842d36233598e15c17dfb7a1
+csv/웹_단기/홍박사_웹.csv,data/raw/web-analysis/홍박사_웹.csv,f7a4900a3b09e6236986c1a4abced2e620ab3bf8717b1cdcefbb29a4f75a42b3
+csv/웹_단기/흥웃기는소리웹.csv,data/raw/web-analysis/흥웃기는소리웹.csv,9a3c6fa115a2b812e9e5568135712868a82d1434ed13aca50ab2141989d2847e
+csv/웹_장기/1루수가 누구야_웹.csv,data/raw/web-analysis/1루수가 누구야_웹.csv,3350618c4f06bdf633a99bffce362f966c8be67798d2c4c6cf0336938205f125
+csv/웹_장기/MZ_웹.csv,data/raw/web-original/MZ_웹.csv,5871b847e37bd02460a4262b3dc0f985e014e30b7b9c66443c050c5fe07e8d07
+csv/웹_장기/ak47_웹.csv,data/raw/web-analysis/ak47_웹.csv,56f7ff0b158c93c35c044dcac85d633778dc0fe191ecd6e34730452f4a5477ad
+csv/웹_장기/mbti_웹.csv,data/raw/web-original/mbti_웹.csv,35218075aaee5e151bb2b9c7d6dc0b8b9bc2bee0c67ad5e7b7ab6fd59917b42d
+csv/웹_장기/yee_웹.csv,data/raw/web-analysis/yee_웹.csv,418aed41ee847d2c5d5fa06b56544d2d7fc9f4795564b492b816d542a617f5e5
+csv/웹_장기/ㄹㅇㅋㅋ웹.csv,data/raw/web-analysis/ㄹㅇㅋㅋ웹.csv,e3bbb3ef6b4798b915333146b7de38d5a9fc4bbd170dde7ea467de2224f3cbcb
+csv/웹_장기/ㅇㄱㄹㅇ웹.csv,data/raw/web-analysis/ㅇㄱㄹㅇ웹.csv,33cc41778efb483d9eaa8363d61ff1c38a73f0d38b5125cdf2c512e6bb097169
+csv/웹_장기/관짝소년단_웹.csv,data/raw/web-analysis/관짝소년단_웹.csv,162cda538b061b8e725a7e63ce8f2a886df6e38564cf5902040e481e7dbea8d0
+csv/웹_장기/국룰_웹.csv,data/raw/web-original/국룰_웹.csv,d6e2d83a7deacea3148de112103c16445cec9ccdd5746b6fc2c1af8b4950122c
+csv/웹_장기/그거아세요웹.csv,data/raw/web-original/그거아세요웹.csv,75d164961acfaeafa9d03751d9e8fac0feb3d6c361ce1599699c516bbf8a45ec
+csv/웹_장기/금쪽이웹.csv,data/raw/web-original/금쪽이웹.csv,9c065805e93501798cd8160bb504c92acfe2d7296bc40ca533fae47146f3cd49
+csv/웹_장기/뇌절_웹.csv,data/raw/web-original/뇌절_웹.csv,a587d0afeb44472c5a5f34c92e844b7b6355513873db959b843283d9a51d4a89
+csv/웹_장기/대박웹.csv,data/raw/web-analysis/대박웹.csv,f9db0ce15d2a2a7f9252d8b8baa3869e45fa9f43584112ba3b84efa517a942ec
+csv/웹_장기/대상혁웹.csv,data/raw/web-analysis/대상혁웹.csv,4d1f749c4b26bdbe042e1649e02ac2dd3dddff49cb50e334754859f4718a199f
+csv/웹_장기/댕댕이웹.csv,data/raw/web-analysis/댕댕이웹.csv,5e49004cb73a8e1cfd43c23c14ed934c85eafe3ce95fc81a0b67ab16236595cd
+csv/웹_장기/라고할뻔_웹.csv,data/raw/web-analysis/라고할뻔_웹.csv,b4bcbe3792bc57244eda42ff1a85b0223f0d1a054933e6af7fe56cd9dff0e18f
+csv/웹_장기/럭키비키_웹.csv,data/raw/web-analysis/럭키비키_웹.csv,ed2c56724e349c60c1bf1046bfb61e086768ddcb3921b3eb1da8cefb358b315f
+csv/웹_장기/레게노웹.csv,data/raw/web-analysis/레게노웹.csv,cfa0ccff035a9647cff6e8fdffba74f7e75d1bac78c9f40d288d3e5f220b73de
+csv/웹_장기/마기꾼_웹.csv,data/raw/web-analysis/마기꾼_웹.csv,60cd1ce70d619ba171395e2b832b50bcb7c37b82943019591bd8e971ab51c495
+csv/웹_장기/마라탕후루_웹.csv,data/raw/web-analysis/마라탕후루_웹.csv,52144d3da672cd2bfe7a73668010ac4f78559af0c4a69081aadd7428559b62bc
+csv/웹_장기/마해자웹.csv,data/raw/web-analysis/마해자웹.csv,f67360683a2751a33423f9ee24bf21143adee1ca26734a8b75a19e1b2dceacb0
+csv/웹_장기/맑눈광_웹.csv,data/raw/web-original/맑눈광_웹.csv,7d284478876bbed9b279cc6aed3caa0aaa545d409eea7af22324db627f6289fc
+csv/웹_장기/멈춰_웹.csv,data/raw/web-analysis/멈춰_웹.csv,cb4a3b9c7c949519db1d0ae73ff12baf9f187d2610502c9a4873980a6a995d43
+csv/웹_장기/무야호_웹.csv,data/raw/web-analysis/무야호_웹.csv,37e7a22c520297d7873b865a5f40241723d13dfac5da9e86bb2e8efc228f1b48
+csv/웹_장기/불좀꺼줄래_웹.csv,data/raw/web-analysis/불좀꺼줄래_웹.csv,00ecf8ff3c550950fec0157dc7cc0e33f21e5fee2fba19d437af9fdc96430200
+csv/웹_장기/불편하면자세를웹.csv,data/raw/web-analysis/불편하면자세를웹.csv,1d43f1d0c203195b9b39b7734a8f4b5fefaafdbf293f92b254def6977d3c5e3b
+csv/웹_장기/빠끄웹.csv,data/raw/web-analysis/빠끄웹.csv,0d36edf1723b1ff51d5c25e934b386c425ce7efd0a13653a0608d46beae7aa25
+csv/웹_장기/삐끼삐끼_웹.csv,data/raw/web-original/삐끼삐끼_웹.csv,ce2caa3db04d5d98c0750b6671ccf5669ac3e6f980cea6864ceb8dd7b89961bd
+csv/웹_장기/사과해요나한테웹.csv,data/raw/web-analysis/사과해요나한테웹.csv,6bd0debf6f95365f80c1b33d0791bb8070ce4e2f7d5cdc590e5ed5e714da2e2f
+csv/웹_장기/사쿠란보_웹.csv,data/raw/web-analysis/사쿠란보_웹.csv,0c2c5d9223b6ce9945976dcd553c65ce846993ecc94a75588024c95da7ecefaa
+csv/웹_장기/상상도 못한 정체_웹.csv,data/raw/web-analysis/상상도 못한 정체_웹.csv,9d8adf7f6b160cac5e625c3d4f8f64319c7d9eb295a8a49e9a410c7bf97d5c10
+csv/웹_장기/스웩_웹.csv,data/raw/web-analysis/스웩_웹.csv,4e0bf33ebc5321ee46e85c76f38b545031ceab2d6b229b9a560733d9f9620444
+csv/웹_장기/슬릭백_웹.csv,data/raw/web-analysis/슬릭백_웹.csv,c2c22e551dffbe0548d0b77dce829bcdeaeeafe3efe00e1e041e2884ba4a1f3e
+csv/웹_장기/시고르자브종웹.csv,data/raw/web-original/시고르자브종웹.csv,111e909c657f5abcfac87ebc3f0d8f891871edd4f52d18c906c572fcd5ee463b
+csv/웹_장기/아기상어_웹.csv,data/raw/web-original/아기상어_웹.csv,46ec4738542feec4c24114dcb13dfd85a8586c4713cb6a5c68f4c9cf695e6be6
+csv/웹_장기/알잘딱깔센_웹.csv,data/raw/web-analysis/알잘딱깔센_웹.csv,da5a6ff1945945dba2e1954ab0b8f9cfbbb42e829bec9c8a23e8a6498a3471a8
+csv/웹_장기/알파메일_웹.csv,data/raw/web-original/알파메일_웹.csv,8a2c9bc70c6bd76eb7b685dd5f2929c00f2fee0481c59bc502fc0d95dfeca339
+csv/웹_장기/야꿀벌_웹.csv,data/raw/web-analysis/야꿀벌_웹.csv,ffd2ad888a085c443f78824821f481dda1c3e2ee34bc70f4ae5d0119e3d198c7
+csv/웹_장기/어이가없네웹.csv,data/raw/web-analysis/어이가없네웹.csv,2e4e8b12e61193b019dd08ac40d56fa547689c4c7f36a96a650a93e210abc108
+csv/웹_장기/어쩔티비_웹.csv,data/raw/web-analysis/어쩔티비_웹.csv,690813c534d10f6832237a99ad3aa08f11be764f711eb3e457c4d81a0e64adfc
+csv/웹_장기/이왜진_웹.csv,data/raw/web-analysis/이왜진_웹.csv,7a3957acd49528c24795b08bb85ee8da191294c622bedcd5197e50070c7aee26
+csv/웹_장기/인싸_웹.csv,data/raw/web-original/인싸_웹.csv,8dbf4caea2f2b04dd26afc080dcf7af4de8abf7cfdbffea68aa341a87045eb71
+csv/웹_장기/자중해_웹.csv,data/raw/web-original/자중해_웹.csv,ff814193bf5a661cb5d01b68c3b7edbf1c5e2cf26c9718e1e31c4eaddcb08b63
+csv/웹_장기/잼민이웹.csv,data/raw/web-original/잼민이웹.csv,f15816d82d2d5710620cf0ac31629b8eda57d55582d48227780f195feb61af68
+csv/웹_장기/존예_웹.csv,data/raw/web-original/존예_웹.csv,b55054d48914cff127622d667c9bb0612c3733b412e1dbea819d822c8d144872
+csv/웹_장기/중꺾마_웹.csv,data/raw/web-analysis/중꺾마_웹.csv,22666325f87d52007a531292db0ae6123adc921e9a218560ba639922ea0ed795
+csv/웹_장기/충주맨_웹.csv,data/raw/web-original/충주맨_웹.csv,02f885e7b3382f1da50ab31ad786b4a0500496961e6882f06464b742cebcd9b9
+csv/웹_장기/코카인댄스웹.csv,data/raw/web-analysis/코카인댄스웹.csv,48d4682e1f2d6d895a4f3dac6668f4f1d93ad7817aa091d969f730dac61c7719
+csv/웹_장기/티니핑_웹.csv,data/raw/web-original/티니핑_웹.csv,361dac134f0aecd5023b20e7b2ad9985ca740a692e8e008ddba915fd9c9a7b3c
+csv/웹_장기/펭수_웹.csv,data/raw/web-analysis/펭수_웹.csv,cbf51f1ddf8180397848fe643286c2580130b5337b9052b60f3a705d99a9721d
+csv/웹_장기/포켓몬빵_웹.csv,data/raw/web-analysis/포켓몬빵_웹.csv,df46e41a704ac21642df9d1e73d4e7096c91d8d3785182d4925d218e746a8408
+csv/웹_장기/한본어_웹.csv,data/raw/web-analysis/한본어_웹.csv,8807fa8b67ca73f2ba1661541d8520c32a676ad9e7b6f72daf1087eb8ad35ed7
+csv/웹_장기/헤어지자고너누군데웹.csv,data/raw/web-analysis/헤어지자고너누군데웹.csv,744d357be6153e1d9e9fe7b251545f5d21ecf8b158ae4100ab30a59ee7ff726b
+csv/웹_장기/헬창_웹.csv,data/raw/web-original/헬창_웹.csv,8ac86e70caa916fdb6d4379704a94d8acce4553ac18b0121f43dea757d6ec906
+데프기실_발표자료_김윤지 이병현.pdf,docs/presentation/데프기실_발표자료_김윤지 이병현.pdf,aaff550543b3b2d24d0b5f712f6b24b6d41e965e8e0ce46fcfaaf597401f0f5b
+발표대본.docx,docs/presentation/발표대본.docx,e3ad8928c0e1ed199d2fc7b835485abc24d8ad813dd7c14e6d87e34187742d25
+발표대본.pdf,docs/presentation/발표대본.pdf,e26b098e544d46ebf19e06bf720142ebfea0428b0c4d9efb02eaf5c59203c651
+병합.csv,results/original/병합.csv,f13c477120d5f15ad3c556a09dea9564e5967b4c1a6fa11422c74bba69c6224c
+실제결과.csv,data/processed/밈_웹_주기_분류완료.csv,784a949203277407d03651281f087a38440456cdbb66f73f5565e65ec4f2af62
+예측결과.csv,results/original/예측결과.csv,ebf749b1a9ef5132c957e728e1baa20d4ac85f654356ec4ef5b867fbce3199df
+예측알고리즘.txt,archive/예측알고리즘.txt,10522d83010f1c811bf3404fb77f1d2548b86c4a21ec9247d0663790dbda1db6
+웹_단기_평균검색량.csv,results/original/웹_단기_평균검색량.csv,752757f74a6a1032dbfc31984faa7fc5ac6f0a9c30f50af74bf723f8cfdc0b8b
