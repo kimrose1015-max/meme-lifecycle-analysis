@@ -1,0 +1,4 @@
+source_file,repository_path,sha256
+머신러닝 및 예측.R,archive/r-scripts/머신러닝 및 예측.R,283200085cc36add88ae11c8b00ef8fe20b8f4efeea2f35efca1918f36f22fbd
+밈_시작소멸판단.R,archive/r-scripts/밈_시작소멸판단.R,7966065982caee9e18a2f0b959d42fc454bc9289b09c63507d23dfa44cbd9c38
+밈 소멸예측.R,archive/r-scripts/밈 소멸예측.R,245e4fdf60520c71d2deff9909486984ad422f4af83b8634fa1e66f153f8c17b

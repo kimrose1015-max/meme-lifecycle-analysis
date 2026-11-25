@@ -43,3 +43,11 @@
 ## 출처 추적
 
 `provenance.csv`는 원본 상대경로, 저장소 경로, SHA-256을 기록합니다. 원본 폴더는 수정하지 않습니다. `.DS_Store` 등 운영체제 메타데이터는 업로드 대상에서 제외합니다.
+
+## 추가 R 코드의 입력·출력
+
+`screen_memes.R`는 기본적으로 `data/raw/web-analysis`를 읽고 `file`, `qualifying_observations`, `is_meme`, `status`를 출력합니다. 관측치 단위는 입력 날짜 간격을 따릅니다.
+
+`train_survival_regression.R`는 같은 폴더와 `data/processed/밈_웹_주기.csv`의 `file`, `start`, `end`를 연결합니다. Unicode NFC 정규화 후 파일명이 일치하는 자료만 사용합니다. 생성되는 `training-data.csv`는 원본 파일명·대응 파일명·시작일·소멸일·목표 생존기간·검색량 특성을 담고, `skipped.csv`는 제외 사유를 담습니다. 시작/소멸 결측을 분석일로 채우지 않습니다.
+
+추가 원본 R 파일 3개의 경로와 SHA-256은 `r-scripts-provenance.csv`에 따로 기록했습니다. 모델과 결과는 `results/generated/`에 생성됩니다. [실행 방법과 해석](additional-r-analysis.md)을 참고하세요.
